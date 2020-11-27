@@ -6,9 +6,12 @@
     Don't metion skype on freelancer site pls.
     
     If you have skype, 
-        type "Very Good Project" on freelancer and Please find my skype id on skype.
+        type "Very Good Project" on freelancer and 
+            Please find my skype id on skype.
     
     If you don't have skype id,
-        type "Normal Project" on freelancer and please install skype and then find me.
+        type "Normal Project" on freelancer and 
+            please install skype and then 
+                find me.
 
 
