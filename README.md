@@ -12,6 +12,6 @@
     If you don't have skype id,
         type "Normal Project" on freelancer and 
             please install skype and then 
-                find me.
+                find me on skype.
 
 
