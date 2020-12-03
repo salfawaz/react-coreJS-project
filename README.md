@@ -1,4 +1,5 @@
-# My Skype Id Is "heracles710_rns"
+# Do you know Skype?
+My Skype Id Is "heracles710_rns"
 
 ```bash
     I think it is better to discuss about your project on skype.
