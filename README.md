@@ -4,6 +4,7 @@
     I think it is better to discuss about your project on skype.
     
     Don't metion skype on freelancer site pls.
+    In general, when I am doing my project, I use skype, too.
     
     If you have skype, 
         type "Very Good Project" on freelancer and 
