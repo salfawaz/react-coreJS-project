@@ -11,3 +11,5 @@
     
     Don't metion skype on freelancer site pls.
     
+    if okay, write "okay" in freelancer.
+    Thanks
